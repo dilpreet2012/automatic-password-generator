@@ -1,5 +1,5 @@
 # React + Vite
-
+# this is my first hard project where i use varoius hooks of react like usecallback,which is used for memoization , useEffect which is used to perform task which immediately need to be excuted as component loads and then i learnt about useRef hook which has 2 use cases
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
